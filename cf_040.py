@@ -1,6 +1,6 @@
 # Code Festival - Python Practice 040
 # Author : ㄱㄱㅊ
-# Title : Goung Amusement Park
+# Title : Going Amusement Park
 # Date : 20-02-15
 
 w_limit = int(input())
